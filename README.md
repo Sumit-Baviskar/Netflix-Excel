@@ -4,6 +4,12 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 So as a data analyst, we are given task to analyze the given data and answer the business question  given by the manager .
 
 
+# Tools
+--> EXCEL
+
+
+# Business Questions
+
 
 Question 1: Percentage of Movies and TV shows?
 
