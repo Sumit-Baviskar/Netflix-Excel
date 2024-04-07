@@ -30,3 +30,8 @@ Question 6: Top 10 directors on Netflix?
 
 
 Question 7: Does Netflix has more focus on tv shows than movies in recent years?
+
+
+
+# DASHBOARD 
+![Picture1](https://github.com/Sumit-Baviskar/Netflix-Excel/assets/153518735/175f8050-ee2b-454b-8238-540e2ac72556)
