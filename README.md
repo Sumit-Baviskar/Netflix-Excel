@@ -5,7 +5,7 @@ So as a data analyst, we are given task to analyze the given data and answer the
 
 
 # :green_book: Tools
---> EXCEL
+**EXCEL**
 
 
 # :green_book: Business Questions
