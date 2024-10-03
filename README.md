@@ -15,7 +15,7 @@ This project focuses on analyzing Netflix’s content data, with a particular em
 The dataset used includes detailed information on the show ID, title, type (movie or TV show), director, cast, country of production, release year, and genre, among other attributes. By leveraging this data, the project offers an in-depth exploration of Netflix’s content strategy and provides recommendations on where the platform should focus its future efforts to enhance its global appeal and sustain its leadership in the streaming industry.
 
 
-# :green_book: **PURPOSE OF THE PROJECT**
+# :green_book: **Purpose of the Project :**
 
 The purpose of this project is to **analyze Netflix’s content library** and provide **data-driven insights** that can help inform strategic business decisions. By examining key metrics related to the distribution of movies, TV shows, genres, actors, directors, and countries of production, this analysis seeks to:
 
