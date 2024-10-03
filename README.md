@@ -110,7 +110,7 @@ This project aims to support Netflix’s mission to offer diverse, high-quality 
 
 
 
-# :green_book: Data Cleaning and Wrangling 
+# :green_book: **Data Cleaning and Wrangling :**
 
 
 
@@ -151,7 +151,7 @@ This project aims to support Netflix’s mission to offer diverse, high-quality 
 
 
 
-# :paperclip: **Business Question Solutions:**
+# :paperclip: **Business Question Solutions :**
 
 
 ## :paperclip: **Question 1: Percentage of Movies and TV shows ?**
