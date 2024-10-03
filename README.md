@@ -151,7 +151,7 @@ This project aims to support Netflix’s mission to offer diverse, high-quality 
 
 
 
-# :paperclip: **BUSSINESS QUESTION :**
+# :paperclip: **Business Question Solutions:**
 
 
 ## :paperclip: **Question 1: Percentage of Movies and TV shows ?**
