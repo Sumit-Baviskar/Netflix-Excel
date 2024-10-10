@@ -35,7 +35,7 @@ This project aims to support Netflix’s mission to offer diverse, high-quality 
 # :green_book: **Tools :**
 
 
-**EXCEL**
+ - **EXCEL**
 
 
 # :green_book: **Understanding data :**
