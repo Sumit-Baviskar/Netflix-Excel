@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: Netflix Data Analysis (Excel Project) :chart_with_upwards_trend:
+# :chart_with_upwards_trend: Netflix Popularity Tracker (Excel Project) :chart_with_upwards_trend:
 
 Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally.
 So as a data analyst, we are given task to analyze the given data and answer the business question  given by the manager .
